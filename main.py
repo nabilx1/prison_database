@@ -8,10 +8,7 @@ parser.read("treebase.ini")
 saved_primary_color = parser.get('colors', 'primary_color')
 saved_secondary_color = parser.get('colors', 'secondary_color')
 saved_highlight_color = parser.get('colors', 'highlight_color')
-# import file_manp
-# from file_manp import *
-# p1=PersonFiles('Fdb.txt')
-# p1.read_file()
+
 
 conn=sqlite3.connect('prison.db')
 c= conn.cursor()
