@@ -1,0 +1,9 @@
+1,ahmad,father,khaled,male,1999,hama
+2,mhmd,father,nader,male,1920,homs
+3,rami,father,samir,male,1950,aleppo
+5,aaa,father,vbb,male,rrr,rr
+
+8,mmmm,father,vbb,male,rrr,rr
+
+6,hhhh,father,vbb,male,rrr,rr
+6,hhhh,father,vbb,male,666,rr
